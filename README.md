@@ -7,4 +7,7 @@ I was getting a little fustrated because I couldn't do a simple nslookup|host|di
 [kubectl cheatsheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
 
 # sample apps
-I created very simple demo k8s app that is made up of a frontend and a backend service. The frontend service lets a user select a lanuage and sends that to the backend service, which use Google Translate to translate "Hello World" in the selected language. More information on these services can be found here: [frontend translate service](https://github.com/anners/translate-fe) [backend translate service](https://github.com/anners/translate-be)
+I created very simple demo k8s app that is made up of a frontend and a backend service. The frontend service lets a user select a lanuage and sends that to the backend service, which use Google Translate to translate "Hello World" in the selected language. More information on these services can be found here: 
+
+[frontend translate service](https://github.com/anners/translate-fe) 
+[backend translate service](https://github.com/anners/translate-be)
