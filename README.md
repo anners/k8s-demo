@@ -22,3 +22,9 @@ I created very simple demo k8s app that is made up of a frontend and a backend s
 [backend translate service](https://github.com/anners/translate-be)
 
 ![translate diagram](/images/k8s-translate-diagram.png)
+
+# kubernetes architecture
+The kubernetes site does a much better job of describing the
+[architecture](https://github.com/kubernetes/community/blob/master/contributors/design-proposals/architecture/architecture.md) than I currently can. I have tried to diagram what I think the architecture of the nodes and control plane (aka master) look like. Again, I am still learning so this might not be completely correct.
+
+![kubernetes architecture](/images/k8s-arch-diagram.png)
